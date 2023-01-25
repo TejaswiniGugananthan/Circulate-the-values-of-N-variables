@@ -29,7 +29,7 @@ a=a[n:]+a[:n]
 print("After circulating the values are:",a)
 ```
 ## OUTPUT:
-![output](g1.png)
+![output](h.png)
 
 
 ## RESULT:
